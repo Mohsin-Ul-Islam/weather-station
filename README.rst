@@ -8,4 +8,4 @@ Weather Station
 
 This is my hobby project for calculating air quality index, temperature and humidity in Lahore using `DHT11`_, `MQ135`_ sensors and `ESP32`_ microcontroller.
 
-Web app can be found `here`_.
+Web app can be found here: `weather-station`_.
